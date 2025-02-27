@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+#coursesList::-webkit-scrollbar{
+    display: none;
+}
+#coursesCards::-webkit-scrollbar{
+    display: none;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
